@@ -1,0 +1,22 @@
+<div class="container">
+    <h1>Entrée de données</h1>
+
+    <div class="progress">
+      <div class="progress-bar progress-bar-striped active" role="progressbar"
+      aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:100%">
+        Parle...
+      </div>
+    </div>
+
+    <form>
+      <div class="form-group">
+        <label>id</label>
+         <input [(ngModel)]="entryExpression.id" class="form-control" placeholder="id" required>
+      </div>
+      <div class="form-group">
+        <label>{{entryExpression.valueToUpdate}}</label>
+        <input [(ngModel)]="entryExpression.value" class="form-control" placeholder="value"  x-webkit-speech="">
+      </div>
+      <button (click)="Speech();" class="btn btn-default btn-info" >Listen</button>
+    </form>
+</div>

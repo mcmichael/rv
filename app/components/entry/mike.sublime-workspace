@@ -1,0 +1,379 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"func",
+				"function	keyword"
+			],
+			[
+				"pro",
+				"providers	property"
+			],
+			[
+				"promi",
+				"Promise	interface"
+			],
+			[
+				"cons",
+				"console	var"
+			],
+			[
+				"t",
+				"toString	method"
+			],
+			[
+				"rec",
+				"recognition	local var"
+			],
+			[
+				"re",
+				"recognition	local var"
+			],
+			[
+				"Eve",
+				"EventEmitter	alias"
+			],
+			[
+				"O",
+				"Output	var"
+			],
+			[
+				"reco",
+				"recognizer	local var"
+			],
+			[
+				"en",
+				"entryExpression"
+			],
+			[
+				"imp",
+				"import	keyword"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"EX",
+				"Expression	alias"
+			],
+			[
+				"te",
+				"templateUrl	property"
+			],
+			[
+				"b",
+				"base	Tag"
+			],
+			[
+				"sty",
+				"styleUrls	property"
+			],
+			[
+				"i",
+				"id	parameter"
+			],
+			[
+				"fil",
+				"filter	method"
+			],
+			[
+				"reci",
+				"Recipes	parameter"
+			],
+			[
+				"Rec",
+				"Recipes	alias"
+			],
+			[
+				"nu",
+				"number	keyword"
+			],
+			[
+				"Sty",
+				"styleUrls	property"
+			],
+			[
+				"s",
+				"slice	method"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"im",
+				"implements	keyword"
+			],
+			[
+				"Recipe",
+				"RecipeService	alias"
+			],
+			[
+				"Reci",
+				"RecipeService	alias"
+			],
+			[
+				"pri",
+				"private	keyword"
+			],
+			[
+				"In",
+				"Input	alias"
+			],
+			[
+				"Re",
+				"Recipes	var"
+			],
+			[
+				"boo",
+				"bootstrap	alias"
+			],
+			[
+				"fr",
+				"from	keyword"
+			],
+			[
+				"vi",
+				"view2"
+			],
+			[
+				"v",
+				"view2"
+			],
+			[
+				"view",
+				"view1"
+			],
+			[
+				"cl",
+				"class	class …"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "package control insta",
+		"selected_items":
+		[
+			[
+				"package control insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Remove Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Type",
+				"Set Syntax: TypeScript"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/mmena/Google Drive/mike"
+	],
+	"file_history":
+	[
+		"/C/x1.0/forms.css",
+		"/C/x1.0/app/components/expression/expression.component.html",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/app.component.js",
+		"/C/Users/mmena/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/mmena/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/recipe-detail.component.html",
+		"/C/Users/mmena/Documents/GitHub/origin2/index.html",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/dashboard.component.ts",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/dashboard.component.css",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/recipes.component.css",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/app.component.css",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/recipes.component.html",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/recipes.component.ts",
+		"/C/Users/mmena/Documents/GitHub/origin2/style.css",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/app.ts",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/dashboard.component.html",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/recipe.ts",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/recipe-detail.component.ts",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/recipe.service.ts",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/mock-recipes.ts",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/app.js",
+		"/C/Users/mmena/Documents/GitHub/origin2/tsconfig.json",
+		"/C/Users/mmena/Documents/GitHub/origin2/typings.json",
+		"/C/Users/mmena/Documents/GitHub/origin2/package.json",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/main.ts",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/hero.service.ts",
+		"/D/Angular2016/angular-2-beta-boilerplate/app/boot.js",
+		"/D/Angular2016/angular-2-beta-boilerplate/app/app.component.js",
+		"/D/flat-admin-bootstrap-templates-master/index.html",
+		"/D/mw/app/scripts/app.js",
+		"/D/mw/app/index.html",
+		"/C/ng2Pro/quickstart/dist/es6-shim.js",
+		"/C/ng2Pro/quickstart/index.html",
+		"/C/ng2Pro/quickstart/app.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ngModel",
+			"ng",
+			"navbar-expand-toggle",
+			"pull-right",
+			"nav navbar-nav",
+			"navbar-right-expand-toggle ",
+			"navbar-right-expand-toggle pull-right visible-xs fa-rotate-90",
+			"Dashboard"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mike.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 632.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

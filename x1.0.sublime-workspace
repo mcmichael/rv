@@ -1,0 +1,492 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"base	Tag"
+			],
+			[
+				"sty",
+				"styleUrls	property"
+			],
+			[
+				"i",
+				"id	parameter"
+			],
+			[
+				"fil",
+				"filter	method"
+			],
+			[
+				"reci",
+				"Recipes	parameter"
+			],
+			[
+				"rec",
+				"Recipes	alias"
+			],
+			[
+				"Rec",
+				"Recipes	alias"
+			],
+			[
+				"nu",
+				"number	keyword"
+			],
+			[
+				"Sty",
+				"styleUrls	property"
+			],
+			[
+				"imp",
+				"implements	keyword"
+			],
+			[
+				"cons",
+				"constructor	keyword"
+			],
+			[
+				"s",
+				"slice	method"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"im",
+				"implements	keyword"
+			],
+			[
+				"re",
+				"resolve	method"
+			],
+			[
+				"Recipe",
+				"RecipeService	alias"
+			],
+			[
+				"Reci",
+				"RecipeService	alias"
+			],
+			[
+				"pri",
+				"private	keyword"
+			],
+			[
+				"In",
+				"Input	alias"
+			],
+			[
+				"Re",
+				"Recipes	var"
+			],
+			[
+				"boo",
+				"bootstrap	alias"
+			],
+			[
+				"fr",
+				"from	keyword"
+			],
+			[
+				"vi",
+				"view2"
+			],
+			[
+				"v",
+				"view2"
+			],
+			[
+				"view",
+				"view1"
+			],
+			[
+				"cl",
+				"class	class …"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/components/intro/intro.component.html",
+			"settings":
+			{
+				"buffer_size": 48,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "import {Component, OnInit} from 'angular2/core';\nimport {Expression} from './components/expression/expression';\n\n\n\nexport class IntroComponent implements OnInit{\n	expressions: Expression[];\n\n	constructor(\n		private _router:Router,\n		private _expressionService: ExpressionService\n	)\n\n	{\n		ngOnInit(){\n			this\n		}\n\n	}\n	\n}",
+			"file": "app/components/intro/intro.ts",
+			"file_size": 343,
+			"file_write_time": 131052062813866543,
+			"settings":
+			{
+				"buffer_size": 319,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/components/expression/expression.ts",
+			"settings":
+			{
+				"buffer_size": 72,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "import {Component} from 'angular2/core';\nimport {Expression} from './components/expression/expression';\n\n@Component({\n	selector: 'intro',\n	templateUrl: '/app/intro/intro.component.html',\n\n})\n\nexport class appComponent{\n\n}",
+			"file": "app/app.component.ts",
+			"file_size": 170,
+			"file_write_time": 131050438429009805,
+			"settings":
+			{
+				"buffer_size": 221,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 336.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Type",
+				"Set Syntax: TypeScript"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/x1.0",
+		"/C/x1.0/app",
+		"/C/x1.0/app/components",
+		"/C/x1.0/app/components/expression",
+		"/C/x1.0/app/components/intro"
+	],
+	"file_history":
+	[
+		"/C/Users/mmena/Documents/GitHub/origin2/app/app.component.js",
+		"/C/Users/mmena/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/mmena/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/recipe-detail.component.html",
+		"/C/Users/mmena/Documents/GitHub/origin2/index.html",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/dashboard.component.ts",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/dashboard.component.css",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/recipes.component.css",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/app.component.css",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/recipes.component.html",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/recipes.component.ts",
+		"/C/Users/mmena/Documents/GitHub/origin2/style.css",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/app.ts",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/dashboard.component.html",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/recipe.ts",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/recipe-detail.component.ts",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/recipe.service.ts",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/mock-recipes.ts",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/app.js",
+		"/C/Users/mmena/Documents/GitHub/origin2/tsconfig.json",
+		"/C/Users/mmena/Documents/GitHub/origin2/typings.json",
+		"/C/Users/mmena/Documents/GitHub/origin2/package.json",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/main.ts",
+		"/C/Users/mmena/Documents/GitHub/origin2/app/hero.service.ts",
+		"/D/Angular2016/angular-2-beta-boilerplate/app/boot.js",
+		"/D/Angular2016/angular-2-beta-boilerplate/app/app.component.js",
+		"/D/flat-admin-bootstrap-templates-master/index.html",
+		"/D/mw/app/scripts/app.js",
+		"/D/mw/app/index.html",
+		"/C/ng2Pro/quickstart/dist/es6-shim.js",
+		"/C/ng2Pro/quickstart/index.html",
+		"/C/ng2Pro/quickstart/app.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ngModel",
+			"ng",
+			"navbar-expand-toggle",
+			"pull-right",
+			"nav navbar-nav",
+			"navbar-right-expand-toggle ",
+			"navbar-right-expand-toggle pull-right visible-xs fa-rotate-90",
+			"Dashboard"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/components/intro/intro.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 48,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/components/intro/intro.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								161,
+								161
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/components/expression/expression.ts",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 72,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "app/app.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								117,
+								117
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "x1.0.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
